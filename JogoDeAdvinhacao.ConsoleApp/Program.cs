@@ -1,15 +1,17 @@
 ﻿using System.Security.Cryptography;
 
+int numeroAleatorio = RandomNumberGenerator.GetInt32(1, 21);
+
 bool jodoDeveContinuar = true;
 
 
 while (jodoDeveContinuar == true)
 {
+    Console.Clear();
     Console.WriteLine("-----------------------------");
     Console.WriteLine("JOGO DE ADVINHAÇÃO");
     Console.WriteLine("-----------------------------");
 
-    int numeroAleatorio = RandomNumberGenerator.GetInt32(1, 21);
 
     Console.WriteLine();
     Console.Write("DIGITE UM NÚEMRO: ");
@@ -34,7 +36,12 @@ while (jodoDeveContinuar == true)
 
 
     Console.WriteLine();
-    Console.WriteLine("Digite ENTER para o jogo continuar...");
-    Console.ReadLine();
-}
+    Console.WriteLine("Deseja continuar? S/N: ");
+    string opcaoContinuar = Console.ReadLine();
 
+
+    if (opcaoContinuar != "S" && opcaoContinuar != "s")
+    {
+        jodoDeveContinuar = false; 
+    }
+}

@@ -12,3 +12,4 @@ E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\refint\JogoDeAdvinhacao
 E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.pdb
 E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.genruntimeconfig.cache
 E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\ref\JogoDeAdvinhacao.ConsoleApp.dll
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.sourcelink.json
