@@ -1,0 +1,14 @@
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\bin\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.exe
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\bin\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.deps.json
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\bin\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.runtimeconfig.json
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\bin\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.dll
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\bin\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.pdb
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.AssemblyInfoInputs.cache
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.AssemblyInfo.cs
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.dll
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\refint\JogoDeAdvinhacao.ConsoleApp.dll
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.pdb
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\JogoDeAdvinhacao.ConsoleApp.genruntimeconfig.cache
+E:\C#\JOGO\JogoDeAdvinhacao.ConsoleApp\obj\Debug\net10.0\ref\JogoDeAdvinhacao.ConsoleApp.dll
